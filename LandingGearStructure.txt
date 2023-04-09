@@ -1,0 +1,29 @@
+LANDING GEAR SYSTEM DESIGN AND SIMULATION 
+
+##################### Group Project ##################### 
+Authors: Veton Sulejmani, Mattia Sittoni, Nicola Rossi, Giovanni Mamone Capria
+Professor: Lorenzo Pedrolli
+Course: Oleodinamica e Pneumatica
+Ingegneria Industriale, Laurea triennale (L9 - Classe delle lauree in ingegneria industriale)
+University of Trento 
+######################################################### 
+
+
+################### Project contents ####################
+*** Design and dynamic simulation of the landing gear procedure of an Airbus A320 ***
+The group project aims are to define the kinematic of the landing gear, based on the 
+real kinematic chain, to select the commercial off-the shelf components able to ensure
+the oleodynamic/pneumatic correct operativity of the landing gear in a landing procedure.
+The simulation was performed with Simscape (from Matlab).
+
+Contents of the project: 
+- mechanical analysis of the kinematic chain
+- mechanical analysis of the landing phases
+- static and dynamic loads analysis
+- selection of the appropriate oleodynamic components
+- computation of the proper localized and distributed drops 
+- creation of the oleodynamic circuit
+- creation of the block diagram circuit
+- simulation of the landing gear procedure 
+- simulation of velocity, pressure and position evolution during landing gear procedure
+(https://www.youtube.com/watch?v=mQJ-M_PU3yc)
